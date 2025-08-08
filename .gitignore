@@ -1,15 +1,17 @@
 *
-*/resourcepacks/Beta Chests.zip
-*/resourcepacks/S1 Assets.zip
 
 !/config/
-!/resourcepacks/
-!/resources/
-!/scripts/
 !/config/**
+!/resourcepacks/
+/resourcepacks/Beta Chests.zip
+/resourcepacks/S1 Assets.zip
 !/resourcepacks/Beta Chests/**
-!/resources/S1 Assets/**
+!/resourcepacks/S1 Assets/**
+!/resources/
+!/resources/**
+!/scripts/
 !/scripts/**
 
 !.gitignore
+
 !README.md
