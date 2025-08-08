@@ -1,0 +1,41 @@
++-------------------------+---------+-------------+-----------+------------+--------+-----------+------------------------------------------------------+
+| Name                    | Density | Temperature | Viscosity | Luminosity | Rarity | isGaseous | Block                                                |
++-------------------------+---------+-------------+-----------+------------+--------+-----------+------------------------------------------------------+
+| coolant                 |    1000 |         300 |      3000 |          0 | COMMON |     false | -                                                    |
+| fuel_dense              |     600 |         300 |       800 |          0 | COMMON |     false | buildcraftenergy:fluid_block_fuel_dense_heat_0       |
+| fuel_dense_heat_1       |     600 |         320 |       600 |          0 | COMMON |     false | buildcraftenergy:fluid_block_fuel_dense_heat_1       |
+| fuel_dense_heat_2       |    -600 |         340 |       400 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_dense_heat_2       |
+| fuel_gaseous            |    -300 |         300 |       500 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_gaseous_heat_0     |
+| fuel_gaseous_heat_1     |    -300 |         320 |       375 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_gaseous_heat_1     |
+| fuel_gaseous_heat_2     |    -300 |         340 |       250 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_gaseous_heat_2     |
+| fuel_light              |     400 |         300 |       600 |          0 | COMMON |     false | buildcraftenergy:fluid_block_fuel_light_heat_0       |
+| fuel_light_heat_1       |    -400 |         320 |       450 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_light_heat_1       |
+| fuel_light_heat_2       |    -400 |         340 |       300 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_light_heat_2       |
+| fuel_mixed_heavy        |     700 |         300 |      1000 |          0 | COMMON |     false | buildcraftenergy:fluid_block_fuel_mixed_heavy_heat_0 |
+| fuel_mixed_heavy_heat_1 |     700 |         320 |       750 |          0 | COMMON |     false | buildcraftenergy:fluid_block_fuel_mixed_heavy_heat_1 |
+| fuel_mixed_heavy_heat_2 |    -700 |         340 |       500 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_mixed_heavy_heat_2 |
+| fuel_mixed_light        |     650 |         300 |       900 |          0 | COMMON |     false | buildcraftenergy:fluid_block_fuel_mixed_light_heat_0 |
+| fuel_mixed_light_heat_1 |    -650 |         320 |       675 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_mixed_light_heat_1 |
+| fuel_mixed_light_heat_2 |    -650 |         340 |       450 |          0 | COMMON |      true | buildcraftenergy:fluid_block_fuel_mixed_light_heat_2 |
+| lava                    |    3000 |        1300 |      6000 |         15 | COMMON |     false | minecraft:lava                                       |
+| oil                     |     900 |         300 |      2000 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_heat_0              |
+| oil_dense               |     950 |         300 |      1600 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_dense_heat_0        |
+| oil_dense_heat_1        |     950 |         320 |      1200 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_dense_heat_1        |
+| oil_dense_heat_2        |     950 |         340 |       800 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_dense_heat_2        |
+| oil_distilled           |     750 |         300 |      1400 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_distilled_heat_0    |
+| oil_distilled_heat_1    |     750 |         320 |      1050 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_distilled_heat_1    |
+| oil_distilled_heat_2    |    -750 |         340 |       700 |          0 | COMMON |      true | buildcraftenergy:fluid_block_oil_distilled_heat_2    |
+| oil_heat_1              |     900 |         320 |      1500 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_heat_1              |
+| oil_heat_2              |     900 |         340 |      1000 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_heat_2              |
+| oil_heavy               |     850 |         300 |      1800 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_heavy_heat_0        |
+| oil_heavy_heat_1        |     850 |         320 |      1350 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_heavy_heat_1        |
+| oil_heavy_heat_2        |     850 |         340 |       900 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_heavy_heat_2        |
+| oil_residue             |    1200 |         300 |      4000 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_residue_heat_0      |
+| oil_residue_heat_1      |    1200 |         320 |      3000 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_residue_heat_1      |
+| oil_residue_heat_2      |    1200 |         340 |      2000 |          0 | COMMON |     false | buildcraftenergy:fluid_block_oil_residue_heat_2      |
+| steam                   |   -1000 |         300 |       500 |          0 | COMMON |     false | -                                                    |
+| water                   |    1000 |         300 |      1000 |          0 | COMMON |     false | minecraft:water                                      |
+| woodgas                 |   -1000 |         300 |       500 |          0 | COMMON |     false | -                                                    |
++-------------------------+---------+-------------+-----------+------------+--------+-----------+------------------------------------------------------+
+| Name                    | Density | Temperature | Viscosity | Luminosity | Rarity | isGaseous | Block                                                |
++-------------------------+---------+-------------+-----------+------------+--------+-----------+------------------------------------------------------+

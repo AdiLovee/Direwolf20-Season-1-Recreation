@@ -4,10 +4,10 @@
 !/resourcepacks/
 !/resources/
 !/scripts/
-!/config/*
-!/resourcepacks/*
-!/resources/*
-!/scripts/*
+!/config/**
+!/resourcepacks/**
+!/resources/**
+!/scripts/**
 
 !.gitignore
 !README.md

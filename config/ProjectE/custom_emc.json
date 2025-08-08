@@ -1,0 +1,252 @@
+{
+  "entries": [
+    {
+      "item": "ic2:itemmisc|158",
+      "emc": 16
+    },
+    {
+      "item": "ic2:blockrubwood|0",
+      "emc": 32
+    },
+    {
+      "item": "ic2:blockmetal|7",
+      "emc": 1152
+    },
+    {
+      "item": "ic2:blockmetal|8",
+      "emc": 2304
+    },
+    {
+      "item": "ic2:blockmetal|9",
+      "emc": 1140
+    },
+    {
+      "item": "ic2:blockmetal|10",
+      "emc": 36864
+    },
+    {
+      "item": "ic2:blockscaffold|0",
+      "emc": 2
+    },
+    {
+      "item": "ic2:blockmetal|12",
+      "emc": 288
+    },
+    {
+      "item": "ic2:itemmisc|257",
+      "emc": 1008
+    },
+    {
+      "item": "ic2:blockutility|2",
+      "emc": 127
+    },
+    {
+      "item": "ic2:blockutility|3",
+      "emc": 289
+    },
+    {
+      "item": "ic2:itemtreetap|0",
+      "emc": 40
+    },
+    {
+      "item": "ic2:blockminingpipe|0",
+      "emc": 197
+    },
+    {
+      "item": "ic2:blockexplosive|0",
+      "emc": 729
+    },
+    {
+      "item": "ic2:blockexplosive|1",
+      "emc": 17344
+    },
+    {
+      "item": "ic2:itemmisc|8",
+      "emc": 32
+    },
+    {
+      "item": "ic2:blockfoam|0",
+      "emc": 53
+    },
+    {
+      "item": "ic2:blockrubber|0",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemcable|1",
+      "emc": 96
+    },
+    {
+      "item": "ic2:itembatre|0",
+      "emc": 1248
+    },
+    {
+      "item": "ic2:blockmachinelv|0",
+      "emc": 2048
+    },
+    {
+      "item": "ic2:blockmachinelv|1",
+      "emc": 2048
+    },
+    {
+      "item": "ic2:blockgenerator|0",
+      "emc": 3304
+    },
+    {
+      "item": "ic2:itemcellempty|0",
+      "emc": 64
+    },
+    {
+      "item": "ic2:blockgenerator|1",
+      "emc": 3948
+    },
+    {
+      "item": "ic2:blockgenerator|2",
+      "emc": 1676
+    },
+    {
+      "item": "ic2:blockelectric|0",
+      "emc": 3880
+    },
+    {
+      "item": "ic2:itembatcrystal|0",
+      "emc": 8704
+    },
+    {
+      "item": "ic2:itemmisc|152",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemmisc|154",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemmisc|155",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemmisc|153",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemdooralloy|0",
+      "emc": 762
+    },
+    {
+      "item": "ic2:itemcellempty|2",
+      "emc": 128
+    },
+    {
+      "item": "ic2:itemcellempty|1",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemheatstorage|0",
+      "emc": 64
+    },
+    {
+      "item": "ic2:itemmisc|451",
+      "emc": 960
+    },
+    {
+      "item": "ic2:itemmisc|452",
+      "emc": 3712
+    },
+    {
+      "item": "ic2:itemreactorrods|0",
+      "emc": 4160
+    },
+    {
+      "item": "ic2:itemmisc|258",
+      "emc": 203840
+    },
+    {
+      "item": "ic2:itembatlamacrystal|0",
+      "emc": 15808
+    },
+    {
+      "item": "ic2:itemarmorrubboots|0",
+      "emc": 240
+    },
+    {
+      "item": "ic2:itemmisc|256",
+      "emc": 512
+    },
+    {
+      "item": "ic2:itemarmornanoboots|0",
+      "emc": 10752
+    },
+    {
+      "item": "ic2:itemarmornanolegs|0",
+      "emc": 11776
+    },
+    {
+      "item": "ic2:itemarmornanochestplate|0",
+      "emc": 12288
+    },
+    {
+      "item": "ic2:itemarmornanohelmet|0",
+      "emc": 10753
+    },
+    {
+      "item": "ic2:itemarmorbronzehelmet|0",
+      "emc": 800
+    },
+    {
+      "item": "ic2:itemarmorbronzechestplate|0",
+      "emc": 1280
+    },
+    {
+      "item": "ic2:itemarmorbronzelegs|0",
+      "emc": 1120
+    },
+    {
+      "item": "ic2:itemarmorbronzeboots|0",
+      "emc": 640
+    },
+    {
+      "item": "ic2:itemarmoralloyboots|0",
+      "emc": 5312
+    },
+    {
+      "item": "ic2:itemarmoralloyleggings|0",
+      "emc": 9296
+    },
+    {
+      "item": "ic2:itemarmoralloychestplate|0",
+      "emc": 8608
+    },
+    {
+      "item": "ic2:itemarmoralloyhelmet|0",
+      "emc": 6640
+    },
+    {
+      "item": "ic2:bronzeshield|0",
+      "emc": 1584
+    },
+    {
+      "item": "ic2:platedshield|0",
+      "emc": 9648
+    },
+    {
+      "item": "ic2:itemnanosabers|0",
+      "emc": 12512
+    },
+    {
+      "item": "ic2:itemdrills|0",
+      "emc": 3488
+    },
+    {
+      "item": "ic2:itemtoolchainsaw|0",
+      "emc": 3488
+    },
+    {
+      "item": "ic2:itemdrills|1",
+      "emc": 28064
+    },
+    {
+      "item": "minecraft:sandstone|0",
+      "emc": 4
+    }
+  ]
+}

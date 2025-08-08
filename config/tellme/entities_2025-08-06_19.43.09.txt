@@ -1,0 +1,110 @@
++--------------------------+------------------------------------+----------------------------+-----+
+| Mod name                 | Registry name                      | Entity class name          |  ID |
++--------------------------+------------------------------------+----------------------------+-----+
+| Clumps                   | clumps:xp_orb_big                  | EntityXPOrbBig             |   0 |
+| Industrial Craft Classic | ic2:carbonboat                     | EntityCarbonBoat           |   4 |
+| Industrial Craft Classic | ic2:dynamite                       | EntityDynamite             |   0 |
+| Industrial Craft Classic | ic2:electricboat                   | EntityElectricBoat         |   7 |
+| Industrial Craft Classic | ic2:itnt                           | EntityITNT                 |   1 |
+| Industrial Craft Classic | ic2:mininglaser                    | EntityMiningLaser          |   8 |
+| Industrial Craft Classic | ic2:nuke                           | EntityNuke                 |   2 |
+| Industrial Craft Classic | ic2:rubberboat                     | EntityRubberBoat           |   3 |
+| Industrial Craft Classic | ic2:trackingmininglaser            | EntityTrackingMiningLaser  |   9 |
+| Minecraft                | minecraft:area_effect_cloud        | EntityAreaEffectCloud      |   3 |
+| Minecraft                | minecraft:armor_stand              | EntityArmorStand           |  30 |
+| Minecraft                | minecraft:arrow                    | EntityTippedArrow          |  10 |
+| Minecraft                | minecraft:bat                      | EntityBat                  |  65 |
+| Minecraft                | minecraft:blaze                    | EntityBlaze                |  61 |
+| Minecraft                | minecraft:boat                     | EntityBoat                 |  41 |
+| Minecraft                | minecraft:cave_spider              | EntityCaveSpider           |  59 |
+| Minecraft                | minecraft:chest_minecart           | EntityMinecartChest        |  43 |
+| Minecraft                | minecraft:chicken                  | EntityChicken              |  93 |
+| Minecraft                | minecraft:commandblock_minecart    | EntityMinecartCommandBlock |  40 |
+| Minecraft                | minecraft:cow                      | EntityCow                  |  92 |
+| Minecraft                | minecraft:creeper                  | EntityCreeper              |  50 |
+| Minecraft                | minecraft:donkey                   | EntityDonkey               |  31 |
+| Minecraft                | minecraft:dragon_fireball          | EntityDragonFireball       |  26 |
+| Minecraft                | minecraft:egg                      | EntityEgg                  |   7 |
+| Minecraft                | minecraft:elder_guardian           | EntityElderGuardian        |   4 |
+| Minecraft                | minecraft:ender_crystal            | EntityEnderCrystal         | 200 |
+| Minecraft                | minecraft:ender_dragon             | EntityDragon               |  63 |
+| Minecraft                | minecraft:ender_pearl              | EntityEnderPearl           |  14 |
+| Minecraft                | minecraft:enderman                 | EntityEnderman             |  58 |
+| Minecraft                | minecraft:endermite                | EntityEndermite            |  67 |
+| Minecraft                | minecraft:evocation_fangs          | EntityEvokerFangs          |  33 |
+| Minecraft                | minecraft:evocation_illager        | EntityEvoker               |  34 |
+| Minecraft                | minecraft:eye_of_ender_signal      | EntityEnderEye             |  15 |
+| Minecraft                | minecraft:falling_block            | EntityFallingBlock         |  21 |
+| Minecraft                | minecraft:fireball                 | EntityLargeFireball        |  12 |
+| Minecraft                | minecraft:fireworks_rocket         | EntityFireworkRocket       |  22 |
+| Minecraft                | minecraft:furnace_minecart         | EntityMinecartFurnace      |  44 |
+| Minecraft                | minecraft:ghast                    | EntityGhast                |  56 |
+| Minecraft                | minecraft:giant                    | EntityGiantZombie          |  53 |
+| Minecraft                | minecraft:guardian                 | EntityGuardian             |  68 |
+| Minecraft                | minecraft:hopper_minecart          | EntityMinecartHopper       |  46 |
+| Minecraft                | minecraft:horse                    | EntityHorse                | 100 |
+| Minecraft                | minecraft:husk                     | EntityHusk                 |  23 |
+| Minecraft                | minecraft:illusion_illager         | EntityIllusionIllager      |  37 |
+| Minecraft                | minecraft:item                     | EntityItem                 |   1 |
+| Minecraft                | minecraft:item_frame               | EntityItemFrame            |  18 |
+| Minecraft                | minecraft:leash_knot               | EntityLeashKnot            |   8 |
+| Minecraft                | minecraft:llama                    | EntityLlama                | 103 |
+| Minecraft                | minecraft:llama_spit               | EntityLlamaSpit            | 104 |
+| Minecraft                | minecraft:magma_cube               | EntityMagmaCube            |  62 |
+| Minecraft                | minecraft:minecart                 | EntityMinecartEmpty        |  42 |
+| Minecraft                | minecraft:mooshroom                | EntityMooshroom            |  96 |
+| Minecraft                | minecraft:mule                     | EntityMule                 |  32 |
+| Minecraft                | minecraft:ocelot                   | EntityOcelot               |  98 |
+| Minecraft                | minecraft:painting                 | EntityPainting             |   9 |
+| Minecraft                | minecraft:parrot                   | EntityParrot               | 105 |
+| Minecraft                | minecraft:pig                      | EntityPig                  |  90 |
+| Minecraft                | minecraft:polar_bear               | EntityPolarBear            | 102 |
+| Minecraft                | minecraft:potion                   | EntityPotion               |  16 |
+| Minecraft                | minecraft:rabbit                   | EntityRabbit               | 101 |
+| Minecraft                | minecraft:sheep                    | EntitySheep                |  91 |
+| Minecraft                | minecraft:shulker                  | EntityShulker              |  69 |
+| Minecraft                | minecraft:shulker_bullet           | EntityShulkerBullet        |  25 |
+| Minecraft                | minecraft:silverfish               | EntitySilverfish           |  60 |
+| Minecraft                | minecraft:skeleton                 | EntitySkeleton             |  51 |
+| Minecraft                | minecraft:skeleton_horse           | EntitySkeletonHorse        |  28 |
+| Minecraft                | minecraft:slime                    | EntitySlime                |  55 |
+| Minecraft                | minecraft:small_fireball           | EntitySmallFireball        |  13 |
+| Minecraft                | minecraft:snowball                 | EntitySnowball             |  11 |
+| Minecraft                | minecraft:snowman                  | EntitySnowman              |  97 |
+| Minecraft                | minecraft:spawner_minecart         | EntityMinecartMobSpawner   |  47 |
+| Minecraft                | minecraft:spectral_arrow           | EntitySpectralArrow        |  24 |
+| Minecraft                | minecraft:spider                   | EntitySpider               |  52 |
+| Minecraft                | minecraft:squid                    | EntitySquid                |  94 |
+| Minecraft                | minecraft:stray                    | EntityStray                |   6 |
+| Minecraft                | minecraft:tnt                      | EntityTNTPrimed            |  20 |
+| Minecraft                | minecraft:tnt_minecart             | EntityMinecartTNT          |  45 |
+| Minecraft                | minecraft:vex                      | EntityVex                  |  35 |
+| Minecraft                | minecraft:villager                 | EntityVillager             | 120 |
+| Minecraft                | minecraft:villager_golem           | EntityIronGolem            |  99 |
+| Minecraft                | minecraft:vindication_illager      | EntityVindicator           |  36 |
+| Minecraft                | minecraft:witch                    | EntityWitch                |  66 |
+| Minecraft                | minecraft:wither                   | EntityWither               |  64 |
+| Minecraft                | minecraft:wither_skeleton          | EntityWitherSkeleton       |   5 |
+| Minecraft                | minecraft:wither_skull             | EntityWitherSkull          |  19 |
+| Minecraft                | minecraft:wolf                     | EntityWolf                 |  95 |
+| Minecraft                | minecraft:xp_bottle                | EntityExpBottle            |  17 |
+| Minecraft                | minecraft:xp_orb                   | EntityXPOrb                |   2 |
+| Minecraft                | minecraft:zombie                   | EntityZombie               |  54 |
+| Minecraft                | minecraft:zombie_horse             | EntityZombieHorse          |  29 |
+| Minecraft                | minecraft:zombie_pigman            | EntityPigZombie            |  57 |
+| Minecraft                | minecraft:zombie_villager          | EntityZombieVillager       |  27 |
+| PortalGunClassic         | portalgunclassic:portal_projectile | EntityPortalProjectile     |   0 |
+| ProjectE                 | projecte:fire_projectile           | EntityFireProjectile       |   9 |
+| ProjectE                 | projecte:homing_arrow              | EntityHomingArrow          |   8 |
+| ProjectE                 | projecte:lava_projectile           | EntityLavaProjectile       |   2 |
+| ProjectE                 | projecte:lens_projectile           | EntityLensProjectile       |   5 |
+| ProjectE                 | projecte:mob_randomizer            | EntityMobRandomizer        |   4 |
+| ProjectE                 | projecte:nova_cataclysm_primed     | EntityNovaCataclysmPrimed  |   7 |
+| ProjectE                 | projecte:nova_catalyst_primed      | EntityNovaCatalystPrimed   |   6 |
+| ProjectE                 | projecte:swrg_projectile           | EntitySWRGProjectile       |  10 |
+| ProjectE                 | projecte:water_projectile          | EntityWaterProjectile      |   1 |
+| WirelessRedstone-CBE     | wrcbe:tracker                      | EntityWirelessTracker      |   0 |
+| iChunUtil                | ichunutil:entity_block             | EntityBlock                | 500 |
++--------------------------+------------------------------------+----------------------------+-----+
+| Mod name                 | Registry name                      | Entity class name          |  ID |
++--------------------------+------------------------------------+----------------------------+-----+

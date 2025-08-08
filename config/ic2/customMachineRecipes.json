@@ -1,0 +1,646 @@
+{
+  "recipes":
+  [
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "minecraft:diamond",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 252,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "minecraft:cobblestone",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:stone",
+        "meta": 0,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "minecraft:string",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "ore",
+        "oreID": "wool"
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "minecraft:sand",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:cobblestone",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "minecraft:flint",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:gravel",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "minecraft:ice",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:snowball",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "minecraft:sand",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:sandstone",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 3,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 51,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 2,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 50,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 53,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:iron_ingot",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 1,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:gold_ingot",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 6,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:coal",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 2,
+          "amount": 2
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:blockmetal",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 3,
+          "amount": 2
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:blockmetal",
+        "meta": 1,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 1,
+          "amount": 2
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:gold_ore",
+        "meta": 0,
+        "amount":1
+      }
+    },
+    {
+      "recipeType": "macerator",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 0,
+          "amount": 2
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:iron_ore",
+        "meta": 0,
+        "amount":1
+      }
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ,
+    {
+      "recipeType": "extractor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 450,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:blockrubsapling",
+        "meta": 0,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "extractor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 450,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:blockrubwood",
+        "meta": 0,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "extractor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 450,
+          "amount": 3
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemharz",
+        "meta": 0,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "extractor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 104,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 103,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "extractor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 102,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 101,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "extractor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemheatstorage",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemcellempty",
+        "meta": 1,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 351,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 350,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 352,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 7,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 55,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 180,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 257,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 56,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "minecraft:diamond",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 252,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 251,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 250,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "ic2:itemmisc",
+          "meta": 256,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemmisc",
+        "meta": 255,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "minecraft:snowball",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "ic2:itemcellempty",
+        "meta": 1,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "minecraft:ice",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:snowball",
+        "meta": 0,
+        "amount": 1
+      }
+    },
+    {
+      "recipeType": "compressor",
+      "outputs":
+      [
+        {
+          "item": "minecraft:sandstone",
+          "meta": 0,
+          "amount": 1
+        }
+      ],
+      "recipeExperience": 0,
+      "input":
+      {
+        "inputType": "item",
+        "item": "minecraft:sand",
+        "meta": 0,
+        "amount": 1
+      }
+    }
+  ]
+}
