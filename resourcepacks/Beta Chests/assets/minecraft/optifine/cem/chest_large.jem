@@ -1,0 +1,27 @@
+{
+	"texture": "normal_double.png",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [-7, -9, -7]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-7, -10, 7],
+			"boxes": [
+				{"coordinates": [-24, 0, -8, 32, 16, 16], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [8, -9, -7]
+		}
+	]
+}

@@ -3,10 +3,9 @@
 !/config/
 !/config/**
 !/resourcepacks/
+!/resourcepacks/**
 /resourcepacks/Beta Chests.zip
 /resourcepacks/S1 Assets.zip
-!/resourcepacks/Beta Chests/**
-!/resourcepacks/S1 Assets/**
 !/resources/
 !/resources/**
 !/scripts/
