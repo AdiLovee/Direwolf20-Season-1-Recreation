@@ -1,12 +1,14 @@
 *
+*/resourcepacks/Beta Chests.zip
+*/resourcepacks/S1 Assets.zip
 
 !/config/
 !/resourcepacks/
 !/resources/
 !/scripts/
 !/config/**
-!/resourcepacks/**
-!/resources/**
+!/resourcepacks/Beta Chests/**
+!/resources/S1 Assets/**
 !/scripts/**
 
 !.gitignore
